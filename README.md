@@ -10,13 +10,12 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
   - [📚 Table of Contents](#-table-of-contents)
   - [General](#general)
   - [Certification Labs](#certification-labs)
+  - [🌐 Linux \& Networking Labs](#-linux--networking-labs)
   - [🟧 AWS Labs](#-aws-labs)
   - [🌀 Kubernetes Labs](#-kubernetes-labs)
   - [🟡 Messaging \& Queueing Tools Labs (Kafka, Pulsar, ZMQ)](#-messaging--queueing-tools-labs-kafka-pulsar-zmq)
   - [🔵 Cilium Labs (Kubernetes Networking)](#-cilium-labs-kubernetes-networking)
-  - [🌐 Linux \& Networking Labs](#-linux--networking-labs)
-    - [🛠 Terra Labs](#-terra-labs)
-  - [🛠 Other Platform related Labs](#-other-platform-related-labs)
+  - [🛠 Platform related labs](#-platform-related-labs)
     - [🌟 Getting Started](#-getting-started)
 
 ---
@@ -26,6 +25,8 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 1. **[General Playground](https://github.com/moabukar/playground)** - General playground.
 2. **[General Notes](https://github.com/moabukar/notes)** - all my study notes migrated from notion/hardcopy to github.
 
+---
+
 ## Certification Labs
 
 1. **[Kubernetes and Cloud Native Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)** - Note: A documentation of notes & curated useful resources to help you prepare for the Kubernetes and Cloud Native Associate Exam (KCNA) Feel free to share them :)
@@ -33,6 +34,16 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 3. **[Certified Kubernetes Administrator CKA](https://github.com/moabukar/CKA-Exercises)** - A set of curated exercises to help prepare you for the Certified Kubernetes Administrator Exam by the Cloud Native Computing Foundation
 
 ---
+
+## 🌐 Linux & Networking Labs
+
+1. **[UNIX Networking](https://github.com/moabukar/unix-net)** - Repo documenting all my networking notes in the unix, containers, cloud and k8s space.
+2. **[ZeroTier VPN](https://github.com/moabukar/zerotier-bridge)** - ZeroTier VPN.
+3. **[VPN on AWS & Azure](https://github.com/moabukar/vpn-cloud)** - VPN on AWS and Azure.
+4. **[Learn Linux & Networking](https://unix-learn.moabukar.co.uk/)** - Learn Linux & Networking.
+5. **[Net scanning tools](https://github.com/moabukar/net-scan)** - This tool scans your local network to discover live hosts and checks whether specific ports are open on those hosts. The script performs the following steps:.
+6. **[Tailscale VPN](https://github.com/moabukar/tailscale-docker)** - Run Tailscale VPN (agent/relay) in a container.
+7. **[Tailscale on AWS](https://github.com/moabukar/tailscale-aws)** - Tailscale on AWS.
 
 ## 🟧 AWS Labs
 
@@ -80,23 +91,9 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 
 ---
 
-## 🌐 Linux & Networking Labs
+## 🛠 Platform related labs
 
-1. **[UNIX Networking](https://github.com/moabukar/unix-net)** - Repo documenting all my networking notes in the unix, containers, cloud and k8s space.
-2. **[ZeroTier VPN](https://github.com/moabukar/zerotier-bridge)** - ZeroTier VPN.
-3. **[VPN on AWS & Azure](https://github.com/moabukar/vpn-cloud)** - VPN on AWS and Azure.
-4. **[Learn Linux & Networking](https://unix-learn.moabukar.co.uk/)** - Learn Linux & Networking.
-5. **[Net scanning tools](https://github.com/moabukar/net-scan)** - This tool scans your local network to discover live hosts and checks whether specific ports are open on those hosts. The script performs the following steps:.
-6. **[Tailscale VPN](https://github.com/moabukar/tailscale-docker)** - Run Tailscale VPN (agent/relay) in a container.
-7. **[Tailscale on AWS](https://github.com/moabukar/tailscale-aws)** - Tailscale on AWS.
-
----
-
-### 🛠 Terra Labs
-
-1. **[Terraform Provider for Istio](https://github.com/moabukar/terra-labs)** - Terraform, Terragrunt and Terratests labs.
-
-## 🛠 Other Platform related Labs
+Labs consisting of crossplane, homelab, nomad, localstack, nginx, traefik, etc.
 
 1. **[Crossplane on Kind](https://github.com/moabukar/crossplane-kind)** - Crossplane on Kind.
 2. **[Homelab with multipass](https://github.com/moabukar/homelab-multipass)** - K8s cluster using Multipass, Ansible, and k3s. 
@@ -124,6 +121,7 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 23. **[GitOps bootstrap](https://github.com/moabukar/gitops-bootstrap)** - GitOps bootstrap.
 24. **[GitOps ArgoCD](https://github.com/moabukar/gitops-argo)** - GitOps ArgoCD.
 25. **[GitOps Demo](https://github.com/moabukar/gitops-demo)** - GitOps Demo.
+26. **[Terraform Provider for Istio](https://github.com/moabukar/terra-labs)** - Terraform, Terragrunt and Terratests labs.
 
 ---
 
@@ -135,4 +133,4 @@ Each lab includes detailed instructions in the respective repository. Clone the 
 
 Enjoy! 🎉
 
-P.s. I'm not perfect. Please feel free to give me feedback and any suggestions on any improvements to these labs
+P.S. I'm not perfect. Please feel free to give me feedback and any suggestions on any improvements to these labs
