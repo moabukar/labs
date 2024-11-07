@@ -12,7 +12,7 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
   - [Certification Labs](#certification-labs)
   - [🟧 AWS Labs](#-aws-labs)
   - [🌀 Kubernetes Labs](#-kubernetes-labs)
-  - [🟡 Kafka Labs](#-kafka-labs)
+  - [🟡 Messaging \& Queueing Tools Labs (Kafka, Pulsar, ZMQ)](#-messaging--queueing-tools-labs-kafka-pulsar-zmq)
   - [🔵 Cilium Labs (Kubernetes Networking)](#-cilium-labs-kubernetes-networking)
   - [🌐 Networking Labs](#-networking-labs)
     - [🛠 Terra Labs](#-terra-labs)
@@ -39,6 +39,9 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 2. **[VPN on AWS & Azure](https://github.com/moabukar/vpn-cloud)** - VPN on AWS and Azure.
 3. **[ECS Drainer](https://github.com/moabukar/ecs-drainer)** - ECS Drainer.
 4. **[Node Drainer Lambda](https://github.com/moabukar/node-drainer-lambda)** - Node Drainer Lambda.
+5. **[Blue Green on AWS ECS](https://github.com/moabukar/blue-green)** - Blue Green on AWS ECS.
+6. **[Traefik on AWS ECS](https://github.com/moabukar/terraform-aws-ecs-traefik)** - Traefik on AWS ECS via Terraform.
+7. **[Terraform AWS Shield Advanced](https://github.com/moabukar/terraform-aws-shield-advanced)** - Terraform AWS Shield Advanced.
 
 ---
 
@@ -49,12 +52,14 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 
 ---
 
-## 🟡 Kafka Labs
+## 🟡 Messaging & Queueing Tools Labs (Kafka, Pulsar, ZMQ)
 
 1. **[Kafka on Kubernetes](https://github.com/moabukar/kafka-k8s)** - Deploy and manage Kafka on Kubernetes using Strimzi.
 2. **[Kafka on AWS MSK](https://github.com/moabukar/kafka-msk)** - Deploy and manage Kafka on AWS MSK.
 3. **[Kafka Security](https://github.com/moabukar/kafka-mtls)** - Set up security for Kafka with mTLS (SSL/TLS encryption.)
 4. **[Kafka Raw K8s](https://github.com/moabukar/kafka-raw-k8s)** - Deploy and manage Kafka on Kubernetes without Strimzi.
+5. **[ZMQ Demo](https://github.com/moabukar/zmq-demo)** - ZMQ Demo.
+6. **[Pulsar Playground](https://github.com/moabukar/pulsar-playground)** - Pulsar playground.
 
 ---
 
@@ -70,7 +75,6 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 
 1. **[ZeroTier VPN](https://github.com/moabukar/zerotier-bridge)** - ZeroTier VPN.
 2. **[VPN on AWS & Azure](https://github.com/moabukar/vpn-cloud)** - VPN on AWS and Azure.
-3. 
 ---
 
 ### 🛠 Terra Labs
@@ -98,6 +102,8 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 16. **[Node Drainer Lambda](https://github.com/moabukar/node-drainer-lambda)** - Node Drainer Lambda.
 17. **[AMI Build](https://github.com/moabukar/build-ami)** - AMI Build.
 18. **[Kubeflow ML on EKS](https://github.com/moabukar/kubeflow-ml-eks)** - Kubeflow ML on EKS.
+19. **[Terraform & Packer](https://github.com/moabukar/build)** - Terraform & Packer.
+20. **[Packer to build custom Vagrant boxes](https://github.com/moabukar/custom-boxes)** - Packer to build custom Vagrant boxes.
 
 ---
 
