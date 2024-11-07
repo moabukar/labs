@@ -8,6 +8,7 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 
 - [🚀 Labs Repository](#-labs-repository)
   - [📚 Table of Contents](#-table-of-contents)
+  - [General Playground](#general-playground)
   - [🟧 AWS Labs](#-aws-labs)
   - [🌀 Kubernetes Labs](#-kubernetes-labs)
   - [🟡 Kafka Labs](#-kafka-labs)
@@ -18,6 +19,10 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
     - [🌟 Getting Started](#-getting-started)
 
 ---
+
+## General Playground
+
+1. **[General Playground](https://github.com/moabukar/playground)** - General playground.
 
 ## 🟧 AWS Labs
 
