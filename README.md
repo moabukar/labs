@@ -9,6 +9,7 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 - [🚀 Labs Repository](#-labs-repository)
   - [📚 Table of Contents](#-table-of-contents)
   - [General Playground](#general-playground)
+  - [Certification Labs](#certification-labs)
   - [🟧 AWS Labs](#-aws-labs)
   - [🌀 Kubernetes Labs](#-kubernetes-labs)
   - [🟡 Kafka Labs](#-kafka-labs)
@@ -23,6 +24,14 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 ## General Playground
 
 1. **[General Playground](https://github.com/moabukar/playground)** - General playground.
+
+## Certification Labs
+
+1. **[Kubernetes and Cloud Native Associate KCNA](https://github.com/moabukar/Kubernetes-and-Cloud-Native-Associate-KCNA)** - Note: A documentation of notes & curated useful resources to help you prepare for the Kubernetes and Cloud Native Associate Exam (KCNA) Feel free to share them :)
+2. **[Certified Kubernetes Security Specialist CKS](https://github.com/moabukar/CKS-Exercises-Certified-Kubernetes-Security-Specialist)** - A set of curated exercises to help you prepare for the CKS exam.
+3. **[Certified Kubernetes Administrator CKA](https://github.com/moabukar/CKA-Exercises)** - A set of curated exercises to help prepare you for the Certified Kubernetes Administrator Exam by the Cloud Native Computing Foundation
+
+---
 
 ## 🟧 AWS Labs
 
@@ -87,6 +96,8 @@ Welcome to my labs repo! Here, you'll find a collection of hands-on labs and pro
 14. **[Traefik middlewares](https://github.com/moabukar/traefik-middlewares)** - Traefik middlewares.
 15. **[ECS Drainer](https://github.com/moabukar/ecs-drainer)** - ECS Drainer.
 16. **[Node Drainer Lambda](https://github.com/moabukar/node-drainer-lambda)** - Node Drainer Lambda.
+17. **[AMI Build](https://github.com/moabukar/build-ami)** - AMI Build.
+18. **[Kubeflow ML on EKS](https://github.com/moabukar/kubeflow-ml-eks)** - Kubeflow ML on EKS.
 
 ---
 
